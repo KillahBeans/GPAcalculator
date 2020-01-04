@@ -36,7 +36,7 @@ public class GPACalculator{
 		}
 
 		int index = 0;
-		int sum = 0;
+		float sum = 0;
 
 		//for-each loop for assigning points for each specific grade
 		for(String entry : gradesList){
